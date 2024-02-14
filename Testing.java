@@ -1,5 +1,6 @@
 class Testing {
     public static void main (String[] args) {
-        System.out.println("Testing");
+        Double x = Double.NEGATIVE_INFINITY * 0;
+        System.out.println(x);
     }
 }
